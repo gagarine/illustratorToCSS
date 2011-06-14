@@ -6,12 +6,12 @@ Date: Jun 2011
 
 License: GPL2 http://www.gnu.org/licenses/gpl-2.0.html
  
-Export Illustrator ojbect attribute like size, color,  gradiant, border, .... to CSS.
+Export Illustrator ojbect attributes like size, color, gradient, border, … to CSS.
  
-Usage:  Select an object and run the script.
+Usage: Select an object and run the script.
 
-Note: I want first to do a plugin... but you need to use flash for the interface.
-So this is just a prof of concept but he do the job.
+Note: First I wanted to do a plugin… but you need to use flash for the interface.
+So this is just a proof of concept, but it does the job.
  */
 
 
