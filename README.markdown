@@ -1,8 +1,8 @@
 #Usage
 
 - Download the script
-- In illustrator select an item
-- In illustrator Files -> Scripts -> Other Scripts.. and open the script
+- In Adobe Illustrator, select an item
+- Go to Files -> Scripts -> Other Scripts… and open the script
 
 Voilà!
 
@@ -13,9 +13,9 @@ Voilà!
 - gradient
 - height and width
 
-#What will "never" works
+#What will “never” work
 
-- sadly drop-shadow, Adobe doesn't give the access to the effect from script
+- sadly drop-shadow, Adobe doesn’t give access to the effect from script
 
 #Documentations
 
