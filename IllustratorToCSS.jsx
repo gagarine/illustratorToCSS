@@ -51,7 +51,7 @@ if(documents.length >0)
              }
              css += '}';
             //debug output
-            $.writeln(css);
+            //$.writeln(css);
             
             //output
             alert(css);
